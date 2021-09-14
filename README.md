@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Feel Good Drink Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made for Curtin's Design subject, which focused mainly on the UI/UX of the website.
 
 ## Available Scripts
 
